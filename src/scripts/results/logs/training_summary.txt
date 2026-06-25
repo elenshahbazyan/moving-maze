@@ -1,0 +1,24 @@
+
+SARSA Training Summary
+=====================
+
+Training Episodes: 20000
+Final Episode: 20000
+
+Reward Statistics:
+- Mean Reward: 2.934
+- Median Reward: 7.640
+- Std Deviation: 8.859
+- Min Reward: -19.380
+- Max Reward: 10.340
+
+Learning Progress:
+- Best Reward (First 1000 episodes): -12.480
+- Best Reward (Last 1000 episodes): 10.220
+- Improvement: 22.700
+
+Final Epsilon: 0.0500
+
+Performance Trend (Last 1000 episodes):
+- Mean: 8.400
+- Std: 1.665

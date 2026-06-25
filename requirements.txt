@@ -1,0 +1,25 @@
+# Core dependencies
+torch>=2.0.0
+numpy>=1.21.0
+gymnasium>=0.29.0
+pygame>=2.1.0
+
+# Training and visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+tensorboard>=2.8.0
+tqdm>=4.64.0
+
+# Configuration and utilities
+PyYAML>=6.0
+scipy>=1.9.0
+pandas>=1.5.0
+
+# Optional: For better performance
+# torch-audio  # If you want to use GPU acceleration
+# torchvision  # For additional utilities
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
