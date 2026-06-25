@@ -4,7 +4,7 @@ A reinforcement learning agent trained to navigate a large, partially dynamic ma
 
 ## Demo
 
-![Agent reaching the goal](assets/demo.gif)
+![Agent reaching the goal](30x30.mp4)
 
 *The trained agent navigating the maze and reaching the target.*
 
